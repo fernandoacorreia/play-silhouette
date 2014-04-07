@@ -8,7 +8,7 @@ import com.typesafe.sbt.SbtScalariform._
 
 name := "play-silhouette"
 
-version := "1.0-SNAPSHOT"
+version := "1.0-facorreia-SNAPSHOT"
 
 libraryDependencies ++= Seq(
   cache,
